@@ -35,6 +35,10 @@ Networking, Linux, Docker, monitoring. I build my own tools and my own machines.
 ![Analyse statistique](https://img.shields.io/badge/Analyse_statistique-4B8BBE?style=flat&logoColor=white)
 ![Analyse de signaux](https://img.shields.io/badge/Analyse_de_signaux-2E86AB?style=flat&logoColor=white)
 
+**Frameworks**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
 ---
 
 ## Projects
