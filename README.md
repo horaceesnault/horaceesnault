@@ -29,6 +29,12 @@ Networking, Linux, Docker, monitoring. I build my own tools and my own machines.
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
 ![Telegraf](https://img.shields.io/badge/Telegraf-000000?style=flat&logo=influxdb&logoColor=white)
 
+**Télécoms & Analyse**
+
+![FTTH](https://img.shields.io/badge/FTTH-0059A3?style=flat&logoColor=white)
+![Analyse statistique](https://img.shields.io/badge/Analyse_statistique-4B8BBE?style=flat&logoColor=white)
+![Analyse de signaux](https://img.shields.io/badge/Analyse_de_signaux-2E86AB?style=flat&logoColor=white)
+
 ---
 
 ## Projects
