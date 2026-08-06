@@ -49,6 +49,9 @@ Full monitoring stack deployed via Docker on a Debian VM — Telegraf + InfluxDB
 ### [Projet_GO](https://github.com/horuszz/Projet_GO)
 C project developed as part of my DEUST program.
 
+### [Projet_FTTH](https://github.com/horaceesnault/Projet_FTTH)
+Flask web app to generate FTTH order & termination CSV files via a fiber operator's SOAP WebServices. Guided address lookup (OAPC) and installation booking (RDV). Built during internship at a French municipality.
+
 ---
 
 ## Homelab
