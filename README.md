@@ -46,11 +46,11 @@ Networking, Linux, Docker, monitoring. I build my own tools and my own machines.
 ### [Monitoring_reseau](https://github.com/horuszz/Monitoring_reseau)
 Full monitoring stack deployed via Docker on a Debian VM — Telegraf + InfluxDB + Grafana — covering ~20 MikroTik routers and ~47 UniFi switches across a municipal network. Includes SNMP configuration, custom Grafana dashboards, and Microsoft Teams alerting.
 
-### [Projet_GO](https://github.com/horuszz/Projet_GO)
-C project developed as part of my DEUST program.
-
 ### [Projet_FTTH](https://github.com/horaceesnault/Projet_FTTH)
 Flask web app to generate FTTH order & termination CSV files via a fiber operator's SOAP WebServices. Guided address lookup (OAPC) and installation booking (RDV). Built during internship at a French municipality.
+
+### [Projet_GO](https://github.com/horuszz/Projet_GO)
+C project developed as part of my DEUST program.
 
 ---
 
